@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.List;
 
 
-public class Tugasfuck {
+public class tugasjava {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
